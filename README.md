@@ -36,10 +36,11 @@ TipCalculator.sln
 
 ## Скриншот Обозревателя тестов
 
+<img width="478" height="778" alt="image" src="https://github.com/user-attachments/assets/58db21a5-9219-4d58-b849-397878e3e1e5" />
 
 
 ---
 
 ## Ссылка на репозиторий
-
+https://github.com/daniilpkipfin/TipCalculator3ISIP423
 
